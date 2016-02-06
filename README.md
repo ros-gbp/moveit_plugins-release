@@ -1,3 +1,31 @@
+## moveit_plugins (indigo) - 0.5.7-0
+
+The packages in the `moveit_plugins` repository were released into the `indigo` distro by running `/usr/bin/bloom-release moveit_plugins --track indigo --rosdistro indigo --edit` on `Sat, 06 Feb 2016 02:34:14 -0000`
+
+These packages were released:
+- `moveit_fake_controller_manager`
+- `moveit_plugins`
+- `moveit_ros_control_interface`
+- `moveit_simple_controller_manager`
+
+These packages were explicitly ignored:
+- `moveit_controller_manager_example`
+
+Version of package(s) in repository `moveit_plugins`:
+- upstream repository: https://github.com/ros-planning/moveit_plugins.git
+- release repository: https://github.com/ros-gbp/moveit_plugins-release.git
+- rosdistro version: `0.5.6-2`
+- old version: `0.5.6-2`
+- new version: `0.5.7-0`
+
+Versions of tools used:
+- bloom version: `0.5.20`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.4`
+- rosdistro version: `0.4.2`
+- vcstools version: `0.1.38`
+
+
 ## moveit_plugins (indigo) - 0.5.6-2
 
 The packages in the `moveit_plugins` repository were released into the `indigo` distro by running `/usr/bin/bloom-release moveit_plugins --track indigo --rosdistro indigo` on `Sat, 30 Jan 2016 21:09:07 -0000`
